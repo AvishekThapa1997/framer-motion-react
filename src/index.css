@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-stone-900 bg-[radial-gradient(circle,var(--color-stone-400),transparent_2px)] bg-size-[20px_20px];
+}
