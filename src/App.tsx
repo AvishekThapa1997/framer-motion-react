@@ -1,5 +1,5 @@
-import Stagger from "./Stagger";
+import Scroll from "./Scroll";
 
 export default function App() {
-  return <Stagger />;
+  return <Scroll />;
 }
